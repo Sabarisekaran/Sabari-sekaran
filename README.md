@@ -562,19 +562,13 @@ System Optimization          ███████░░░ 75%
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabarisekaran&show_icons=true&theme=tokyonight" />
-  
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarisekaran&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabarisekaran&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Sabarisekaran&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarisekaran&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabarisekaran&theme=tokyo-night" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Sabarisekaran&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabarisekaran&theme=tokyo-night)
 
 ---
 
