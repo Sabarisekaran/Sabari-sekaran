@@ -6,81 +6,81 @@ Workflow Architect
 Desktop Application Builder
 Real-Time System Explorer
 UI / UX Enthusiast
-AI Workflow Engineer
 ```
 
 🎓 B.Tech Artificial Intelligence & Data Science Student  
-💡 Focused on building scalable AI systems, workflow-based platforms, desktop applications, and real-time full-stack architectures.
+💡 Building scalable AI systems, desktop applications, workflow-driven platforms, and modern full-stack architectures.
 
 ---
 
-# 🚀 Developer Analytics Dashboard
-
-## 🧠 Core Skill Distribution
-
-```mermaid
-pie title Core Technical Distribution
-    "Full Stack Development" : 35
-    "AI / ML Engineering" : 25
-    "Desktop Applications" : 20
-    "UI / UX Systems" : 10
-    "Deployment & Pipelines" : 10
-```
-
----
-
-# 📈 Technical Growth Timeline
+# 🌐 Portfolio Website
 
 ```text
-2024 ─────────────────────────────────────────────── 2026
+Portfolio Link:
+https://your-portfolio-link.vercel.app
+```
 
-Python & Java Basics
-████████████████████████████████████████████ 100%
+> Replace the above link with your deployed portfolio website later.
 
-Frontend Development
-      ██████████████████████████████████████ 90%
+---
 
-AI / ML Workflow
-            ██████████████████████████████ 80%
+# ⚡ Tech Stack
 
-Desktop Development
-                  ████████████████████████ 80%
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,js,ts,docker,aws,git,github,cpp,cs,dotnet,vscode" />
+</p>
 
-Workflow Architecture
-                        ██████████████████ 75%
+---
 
-Cloud & Deployment
-                             ████████████ 60%
+# 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sabarisekaran&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sabarisekaran&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sabarisekaran&theme=tokyonight)
+
+---
+
+# 🚀 Developer Journey
+
+```text
+2024
+│
+├── Started Python, Java & Frontend Learning
+├── Built Expense Tracker Application
+├── Entered AI using Image Captioning
+└── Explored Frontend Workflow Systems
+
+2025
+│
+├── Leaf Disease Detection ML
+├── Billing Management Desktop Software
+├── Truf Zone Web Application
+├── Vehicle Management Platform
+├── Railax Desktop Application
+└── Luggage Management System
+
+2026
+│
+├── ParkEase Workflow & Testing
+├── Railax Optimization
+└── PLANORA + AI Integration
 ```
 
 ---
 
-# ⚡ Technical Performance Metrics
+# 📈 Technical Performance
 
 ## 🌐 Full Stack Engineering
 
 ```text
-React.js Development         ██████████ 90%
-Backend API Development      ████████░░ 80%
+Frontend Development         ██████████ 90%
+Backend API Workflow         ████████░░ 80%
 MERN Architecture            ████████░░ 80%
-Authentication Systems       ███████░░░ 75%
-REST API Integration         ████████░░ 80%
 Responsive UI Systems        █████████░ 85%
-Deployment Workflow          ███████░░░ 70%
-```
-
-### 💡 Full Stack Workflow
-
-```text
-Frontend Structuring
-        ↓
-Backend API Integration
-        ↓
-Database Connectivity
-        ↓
-Authentication Workflow
-        ↓
-Deployment Pipeline
+Authentication Workflow      ███████░░░ 75%
+Deployment Pipelines         ███████░░░ 70%
 ```
 
 ---
@@ -91,120 +91,83 @@ Deployment Pipeline
 Machine Learning             ████████░░ 80%
 Computer Vision              ███████░░░ 75%
 NLP Workflow                 ███████░░░ 70%
-Transformer Models           ██████░░░░ 60%
 Deep Learning Pipelines      ███████░░░ 70%
-AI Integration Workflow      ███████░░░ 75%
+Transformer Integration      ██████░░░░ 60%
+AI Workflow Systems          ███████░░░ 75%
 ```
 
-### ⚡ AI Workflow Architecture
+---
+
+## 🖥️ Desktop Development
 
 ```text
-Image Processing
-      ↓
-Feature Extraction
-      ↓
-Transformer Workflow
-      ↓
-NLP Processing
-      ↓
-AI Output Generation
+WinForms Systems             ████████░░ 80%
+Desktop Workflow Design      ████████░░ 80%
+.NET Framework               ███████░░░ 70%
+XAML UI Structuring          ██████░░░░ 60%
+C++ Logic Systems            ███████░░░ 70%
 ```
 
 ---
 
-## 🖥️ Desktop Development Analytics
+# 🌟 Featured Real-Time Projects
 
-```mermaid
-pie title Desktop Development Focus
-    "WinForms Systems" : 35
-    ".NET Workflow" : 25
-    "Desktop Architecture" : 20
-    "XAML UI Systems" : 10
-    "C++ Logic Systems" : 10
-```
+## 🚀 PLANORA — Ongoing
 
----
+Scalable MERN-based event workflow management platform integrating:
+- QR Verification Systems
+- Dashboard Analytics
+- Coordinator Workflow
+- Registration Handling
+- AI Chat Integration
+- Workflow Automation
 
-## ☁️ Deployment & Pipeline Systems
+### ⚡ Workflow
 
 ```text
-Git & GitHub Workflow        ████████░░ 80%
-Docker Workflow              ██████░░░░ 60%
-AWS Basics                   ██████░░░░ 60%
-Pipeline Structuring         ███████░░░ 70%
-Deployment Architecture      ███████░░░ 70%
-Workflow Automation          ███████░░░ 75%
+Authentication
+      ↓
+Event Management
+      ↓
+Registration Workflow
+      ↓
+QR Verification
+      ↓
+Dashboard Analytics
+      ↓
+AI Automation
 ```
+
+### 🛠️ Stack
+React.js • Node.js • MongoDB • Tailwind CSS
 
 ---
 
-# 🌟 Real-Time Project Experience
+## 🚆 Railax Desktop Application
 
-```mermaid
-pie title Real-Time Project Experience
-    "MERN Applications" : 40
-    "Desktop Systems" : 30
-    "AI / ML Projects" : 20
-    "Testing & Validation" : 10
-```
+Desktop workflow system focused on operational handling and scalable desktop architecture.
 
----
-
-# 📈 Real-Time Project Timeline
-
+### Current Improvements
 ```text
-2024
-│
-├── Expense Tracker
-│      ████████░░░░░░░░░░ 40%
-│
-├── Image Captioning AI
-│      ██████████████░░░░ 75%
-│
-└── Frontend Workflow Learning
-       █████████████████░ 85%
-
-2025
-│
-├── Leaf Disease Detection ML
-│      ███████████████░░░ 80%
-│
-├── Billing Management Software
-│      ████████████████░░ 85%
-│
-├── Truf Zone Web Application
-│      ███████████████░░░ 80%
-│
-├── Vehicle Management Platform
-│      ███████████████░░░ 80%
-│
-├── Railax Desktop App
-│      █████████████░░░░░ 70%
-│
-└── Luggage Management System
-       ███████████░░░░░░░ 60%
-
-2026
-│
-├── ParkEase Workflow
-│      █████████████░░░░░ 70%
-│
-├── Railax Optimization
-│      ████████████░░░░░░ 65%
-│
-└── PLANORA + AI Integration
-       ███████████████░░░ 80%
+UI Optimization
+      ↓
+Workflow Enhancements
+      ↓
+Feature Expansion
+      ↓
+System Scaling
 ```
+
+### 🛠️ Stack
+WinForms • XAML • .NET
 
 ---
 
-# 🧾 Billing Management Software — Mar 2025
+## 🧾 Billing Management Software
 
-## 📌 Real-Time Scenario
+Business-oriented desktop application developed for billing workflow and customer management systems.
 
-Started exploring business-oriented desktop workflow systems using WinForms and .NET technologies.
-
-### ⚡ Workflow Structure
+### ⚡ Workflow
 
 ```text
 Customer Entry
@@ -214,270 +177,37 @@ Invoice Generation
 Billing Workflow
       ↓
 Desktop Processing
-      ↓
-Data Management
 ```
 
-### 💡 Key Contributions
-
-```text
-✔ Invoice Workflow Logic
-✔ Customer Data Handling
-✔ Event-Driven Architecture
-✔ Desktop UI Structuring
-✔ Workflow-Based Navigation
-```
-
-### 🎯 What I Learned
-
-```text
-Desktop Workflow Architecture
-        ↓
-Business Logic Structuring
-        ↓
-Event Handling Systems
-        ↓
-Desktop Application Planning
-```
+### 🛠️ Stack
+WinForms • .NET • Visual Studio
 
 ---
 
-# 🌐 Truf Zone Web Application — Apr 2025
+## 🚘 Vehicle Management Platform
 
-## 📌 Real-Time Scenario
+Workflow-driven management platform for operational tracking and dashboard systems.
 
-Worked on responsive frontend systems and scalable workflow-oriented web architecture.
-
-### ⚡ Frontend Workflow
-
-```text
-Responsive Layout
-      ↓
-Workflow Structuring
-      ↓
-Frontend Optimization
-      ↓
-Scalable UI Planning
-```
-
-### 💡 Worked Areas
-
-```text
-✔ Responsive UI Systems
-✔ Frontend Architecture
-✔ Workflow-Based Structuring
-✔ Optimization Workflow
-```
-
----
-
-# 🚘 Vehicle Management Platform — May-Jun 2025
-
-## 📌 Real-Time Scenario
-
-Developed a workflow-based management platform focused on operational tracking and dashboard systems.
-
-### ⚡ System Architecture
+### ⚡ Workflow
 
 ```text
 Vehicle Entry
       ↓
-Operational Workflow
+Operational Tracking
       ↓
-Dashboard Management
-      ↓
-Data Tracking
+Dashboard Workflow
       ↓
 Monitoring System
 ```
 
-### 💡 Key Features
-
-```text
-✔ Vehicle Workflow Tracking
-✔ Dashboard Systems
-✔ Operational Management
-✔ Frontend-Backend Connectivity
-```
-
-### 🎯 Project Takeaway
-
-```text
-Real-Time Workflow Handling
-        ↓
-Management Architecture
-        ↓
-Operational System Structuring
-```
+### 🛠️ Stack
+React.js • Node.js • MongoDB
 
 ---
 
-# 🚆 Railax Desktop Application — Aug 2025
+## 🤖 AI Image Captioning System
 
-## 📌 Real-Time Scenario
-
-Built structured desktop workflows focused on operational management and scalable desktop architecture.
-
-### ⚡ Desktop Architecture
-
-```text
-Desktop Navigation
-        ↓
-Workflow Processing
-        ↓
-Operational Handling
-        ↓
-System Management
-```
-
-### 💡 Current Optimizations — Mar 2026
-
-```text
-UI Optimization
-      ↓
-Workflow Improvements
-      ↓
-Feature Enhancements
-      ↓
-System Expansion
-```
-
-### 🎯 Learned
-
-```text
-Desktop System Scaling
-        ↓
-Workflow Optimization
-        ↓
-Architecture Enhancement
-```
-
----
-
-# 📦 Luggage Management System — Dec 2025
-
-## 📌 Real-Time Scenario
-
-Building a workflow-driven luggage tracking and management desktop application.
-
-### ⚡ Workflow Pipeline
-
-```text
-Luggage Entry
-      ↓
-Tracking Workflow
-      ↓
-Operational Handling
-      ↓
-Status Monitoring
-      ↓
-Data Management
-```
-
-### 💡 Current Focus
-
-```text
-✔ Tracking Systems
-✔ Workflow Optimization
-✔ Desktop Management
-✔ Operational Architecture
-```
-
----
-
-# 📱 ParkEase — Jan 2026
-
-## 📌 Real-Time Scenario
-
-Worked in development and testing workflow of a React Native application.
-
-### ⚡ Testing Pipeline
-
-```text
-Feature Development
-       ↓
-UI Validation
-       ↓
-Bug Tracking
-       ↓
-Testing Workflow
-       ↓
-System Monitoring
-```
-
-### 💡 Contributions
-
-```text
-✔ Workflow Testing
-✔ Feature Validation
-✔ UI Handling
-✔ System Monitoring
-✔ Development Support
-```
-
----
-
-# 🚀 PLANORA — Ongoing Project
-
-## 📌 Real-Time Scenario
-
-Developing a scalable MERN-based event workflow platform integrating QR systems, dashboard analytics, workflow automation, and AI-driven assistance.
-
----
-
-## ⚡ PLANORA Core Workflow
-
-```text
-Authentication
-      ↓
-Event Creation
-      ↓
-Coordinator Workflow
-      ↓
-Registration System
-      ↓
-QR Verification
-      ↓
-Dashboard Analytics
-      ↓
-Reports & Monitoring
-```
-
----
-
-## 🤖 AI Workflow Integration
-
-```text
-User Query
-      ↓
-AI Chat Integration
-      ↓
-Workflow Assistance
-      ↓
-Automation Pipeline
-      ↓
-Smart System Response
-```
-
----
-
-## 📊 PLANORA Development Status
-
-```text
-Frontend Architecture       █████████░ 85%
-Backend Workflow            ████████░░ 80%
-QR Verification System      ████████░░ 80%
-Dashboard Analytics         ███████░░░ 75%
-AI Chat Integration         ██████░░░░ 60%
-Automation Pipeline         ██████░░░░ 60%
-Deployment Workflow         ███████░░░ 70%
-```
-
----
-
-# 🧠 AI Journey
-
-# 🖼️ Image Captioning AI — Aug 2024
+AI-powered image captioning platform using NLP and transformer-based workflows.
 
 ### ⚡ AI Workflow
 
@@ -493,95 +223,46 @@ Caption Generation
 AI Output
 ```
 
-### 💡 Learned
+### 🛠️ Stack
+Python • Flask • Transformers • PyTorch
 
-```text
-✔ NLP Fundamentals
-✔ Transformer Models
-✔ AI Inference Pipelines
-✔ Computer Vision Workflow
+---
+
+# 📊 Project Experience Distribution
+
+```mermaid
+pie title Project Experience
+    "Full Stack Applications" : 40
+    "Desktop Systems" : 30
+    "AI / ML Projects" : 20
+    "Testing & Workflow" : 10
 ```
 
 ---
 
-# 🌿 Leaf Disease Detection ML — Jan 2025
-
-### ⚡ Workflow Architecture
-
-```text
-Leaf Image
-      ↓
-Image Processing
-      ↓
-Disease Detection
-      ↓
-Caption Generation
-      ↓
-AI Output
-```
-
-### 💡 Learned
-
-```text
-✔ Deep Learning Pipelines
-✔ AI Workflow Integration
-✔ Computer Vision Systems
-✔ Real-World AI Structuring
-```
-
----
-
-# 📊 Overall Technical Analytics
-
-```text
-Real-Time Projects           ████████░░ 80%
-AI Workflow Systems          ███████░░░ 75%
-Full Stack Architecture      ████████░░ 80%
-Desktop System Engineering   ████████░░ 80%
-UI / UX Structuring          █████████░ 85%
-Workflow Planning            ████████░░ 80%
-Testing & Validation         ███████░░░ 75%
-System Optimization          ███████░░░ 75%
-```
-
----
-
-# 📈 Current Learning & Exploration
+# 📚 Currently Exploring
 
 ```text
 🟢 AI Automation Systems
-🟢 AWS & Cloud Services
-🟢 Matplotlib & Data Science
-🟢 Scalable System Design
-🟢 Workflow Automation Pipelines
+🟢 Cloud & AWS Workflows
+🟢 Data Science Visualization
+🟢 Deployment Pipelines
+🟢 Scalable System Architecture
 🟢 Real-Time AI Integration
-🟢 Smart Dashboard Systems
 ```
-
----
-
-# 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabarisekaran&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabarisekaran&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sabarisekaran&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabarisekaran&theme=tokyo-night)
 
 ---
 
 # 🎯 Career Goal
 
 ```text
-Build Intelligent Software Systems
-            ↓
-Create Scalable AI Architectures
-            ↓
+Build Intelligent Systems
+          ↓
+Create Scalable Architectures
+          ↓
 Develop Workflow-Driven Platforms
-            ↓
-Solve Real-World Operational Problems
+          ↓
+Solve Real-World Problems using AI
 ```
 
 ---
