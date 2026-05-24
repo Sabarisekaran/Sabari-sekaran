@@ -24,6 +24,15 @@ https://your-portfolio-link.vercel.app
 
 ---
 
+# 📄 Resume Repository
+
+```text
+Resume GitHub Repo:
+https://github.com/Sabarisekaran/my_resume
+```
+
+> This repository contains my professional resume portfolio and related project files.
+
 # ⚡ Tech Stack
 
 <p align="center">
