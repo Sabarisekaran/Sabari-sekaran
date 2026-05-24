@@ -15,10 +15,7 @@ UI / UX Enthusiast
 
 # 🌐 Portfolio Website
 
-```text
-Portfolio Link:
-https://your-portfolio-link.vercel.app
-```
+[Visit Portfolio](https://your-portfolio-link.vercel.app)
 
 > Replace the above link with your deployed portfolio website later.
 
@@ -26,10 +23,7 @@ https://your-portfolio-link.vercel.app
 
 # 📄 Resume Repository
 
-```text
-Resume GitHub Repo:
-https://github.com/Sabarisekaran/my_resume
-```
+[Open Resume GitHub Repo](https://github.com/Sabarisekaran/my_resume)
 
 > This repository contains my professional resume portfolio and related project files.
 
