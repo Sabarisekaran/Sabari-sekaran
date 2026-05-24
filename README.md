@@ -25,7 +25,7 @@ UI / UX Enthusiast
 
 [Open Resume GitHub Repo](https://github.com/Sabarisekaran/my_resume)
 
-> This repository contains my professional resume portfolio and related project files.
+> This repository contains my professional resume .
 
 # ⚡ Tech Stack
 
